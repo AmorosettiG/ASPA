@@ -10,6 +10,7 @@ The goal is to analyze the data using Markov chain Monte Carlo methods. All MCMC
 
 Throughout the assignment, use the Gamma density parameterized by shape and rate. 
 $$p(\lambda|\alpha,\beta)=\frac{\beta^{\alpha}}{\Gamma(\alpha)}\lambda^{\alpha-1}e^{-\beta\lambda}, \quad \lambda>0 \tag{2}$$
+
 Unless otherwise stated, use
 $$\alpha=1, \quad \beta=0.1 \tag{3}$$
 
